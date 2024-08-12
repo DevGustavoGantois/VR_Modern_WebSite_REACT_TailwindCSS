@@ -1,4 +1,4 @@
-<a href="">Clique aqui para ter acesso ao projeto</a>
+<a href="https://vr-modern-web-site-react-tailwind-css.vercel.app/">Clique aqui para ter acesso ao projeto</a>
 
 <h1>VR Modern WebSite</h1>
 
@@ -25,9 +25,17 @@ Este projeto exemplifica o uso eficaz das tecnologias React e Tailwind CSS para 
 </p>
 
 
+![image](https://github.com/user-attachments/assets/1d1a22d3-f1dc-43ea-ac43-034556564405)
+
+
+
 
 
 <p>Este projeto também está responsivo para telas menores e dispositivos móveis!</p>
+
+
+![image](https://github.com/user-attachments/assets/8a720ad5-ebac-4f5a-a315-1732aedd54e2)
+
 
 
 
